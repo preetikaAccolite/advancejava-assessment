@@ -1,0 +1,7 @@
+Validity    NIPR      licenseNumber dateStatusEffective stateCode expirationDate licenseIssueDate   residentIndicator  licenseStatus stateID  licenseClassCode  licenceclass
+Valid        41585823      85512       05/06/2016       WC       05/01/2026       11/27/2005        Y                      N       68721       1507       Res PRT Firm
+Valid        41581123      73142       10/01/2003       NV       02/01/2026       10/01/2003        Y                      Y       68723       1013       RES PRODUCER
+Valid        41585823      85510       05/01/2014       NY       05/27/2027       01/22/2002        Y                       N       68713       501       Res Motor Club Agt/Agy
+InValid        41581153      73126       11/01/2012       NY       02/01/2012       10/01/2000        Y                       Y       68723       1021       RES
+Valid        41585823      73146       10/01/2001       NV       02/01/2025       10/01/2001        Y                       Y       68723       1011       RES PRODUCER/PRODUCER FIRM
+InValid        41585823      85590       05/01/2014       NV       05/01/2014       04/22/2002        Y                       N       68723       507       Res Motor Club Agt/Agy
